@@ -38,7 +38,7 @@ Get your risk prediction instantly.
 
 ⚠️ Caution 
 
-Like all predictive models, this tool can make mistakes — results are not 100% accurate. Think of it as a smart friend who’s usually right, but sometimes insists pineapple belongs on pizza. Always consult professional medical advice for real health decisions.
+Like all predictive models, this tool can make mistakes. Results are not 100% accurate. Think of it as a smart friend who’s usually right, but sometimes insists pineapple belongs on pizza. Always consult professional medical advice for real health decisions.
 
 
 👨‍💻 The Dream Team
