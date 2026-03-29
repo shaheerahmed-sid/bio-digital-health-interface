@@ -10,8 +10,8 @@ st.set_page_config(
     layout="centered"
 )
 
-# --- NEW: Injecting HTML/CSS Animation from your code ---
-# This replicates the rotating circles from the English Quiz landing page
+# --- NEW: Injecting HTML/CSS Animation from my another code ---
+# This replicates the rotating circles from the Quiz landing page
 animation_html = """
 <style>
 /* Base Styles from your HTML */
@@ -70,7 +70,7 @@ animation_html = """
 </div>
 """
 
-# 2. Aggressive CSS for Deep Black UI and *Forced* Black Numbers
+# 2. Mera favourite design
 st.markdown("""
     <style>
     /* Pure Black Background and Neon Base */
@@ -167,7 +167,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# 3. Load Model Safely
+# 3. Model ko safely load karna
 @st.cache_resource
 def load_research_model():
     try:
@@ -176,11 +176,11 @@ def load_research_model():
     except FileNotFoundError:
         return None
 
-# Attempt to load, if fails, we show error
+# Modle ko load karna
 model = load_research_model()
 
-# --- Displaying the Animation ---
-components.html(animation_html, height=150) # height should match HTML container
+# --- Animation ko Display karna---
+components.html(animation_html, height=150)
 
 # Header
 st.markdown("<h1 id='bio-digital-neural-health-diagnosis'>🧬 BIO-DIGITAL HEALTH INTERFACE</h1>", unsafe_allow_html=True)
@@ -191,7 +191,7 @@ if model is None:
     st.error("❌ CRITICAL SYSTEM ERROR: 'diabetes_model.pkl' not detected. Neural Core offline.")
     st.info("Ensure the pkl file is in the same directory.")
 else:
-    # 4. Neural Input Fields
+    # 4. Input Fields
     col1, col2 = st.columns(2)
 
     with col1:
