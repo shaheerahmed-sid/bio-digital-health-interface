@@ -34,4 +34,5 @@ diabetes_model.pkl: The brain we built together.
 requirements.txt: The grocery list for the internet.
 
 Developed by: Shaheer Ahmed Siddiqui and Shahroz Ahmed
+
 Biochemistry x AI Collaboration
