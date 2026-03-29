@@ -2,7 +2,7 @@ BIO-DIGITAL HEALTH INTERFACE
 
 The AI Collaboration
 
-Biochemistry meets Artificial Intelligence — a joint effort to predict diabetes risk so you don’t have to guess (because guessing is for exam halls, not health).
+Biochemistry meets Artificial Intelligence, a joint effort to predict diabetes risk so you don’t have to guess (because guessing is for exam halls, not health).
 
 
 🌟 Why We Built This  
@@ -29,7 +29,7 @@ requirements.txt → The grocery list for dependencies
 
 🚀 How to Use
 
-Move the sliders (carefully, they’re sensitive — like your WiFi when guests come over).
+Move the sliders (carefully, they’re sensitive, like your WiFi when guests come over).
 
 Click Predict Results.
 
