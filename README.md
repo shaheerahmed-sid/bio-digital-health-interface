@@ -45,7 +45,7 @@ Like all predictive models, this tool can make mistakes. Results are not 100% ac
 
 Shaheer Ahmed Siddiqui
 
-Shahroz Ahmed
+Shahroz Ahmed Siddiqui
 
 
 🔗 Try It Yourself  
